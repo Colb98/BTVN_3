@@ -3,7 +3,11 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - heal
+  - dmg
+  - weapon
+  - item
   layers:
   - Default
   - TransparentFX
@@ -46,4 +50,7 @@ TagManager:
     locked: 0
   - name: Character
     uniqueID: 4185075053
+    locked: 0
+  - name: Effect
+    uniqueID: 2158103491
     locked: 0
